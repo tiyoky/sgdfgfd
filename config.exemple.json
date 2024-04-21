@@ -1,7 +1,7 @@
 {
-    "token": "",
+    "token": "process.env.TOKEN",
     "EmbedFooter": "https://github.com/ThisDudeBoy/Join4Join• (C) 2021 Join4Join",
-    "OwnerID": ["307512442617856000", "680567321403850796"],
-    "reportChannelID": "769515281658675211",
+    "OwnerID": ["1018206885704372274", "1018206885704372274"],
+    "reportChannelID": "1231666757387817072",
     "prefix": "+"
 }
